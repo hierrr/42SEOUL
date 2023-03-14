@@ -14,9 +14,9 @@
 
 ## Cursus
 > Quit
-- Circle 0
-  * **libft•• mendatory + *extra*
-- Circle 1
-  * **get_next_line** mendatory + *extra*
+* Circle 0
+  * **libft** mendatory + *extra*
+* Circle 1
+  * **get_next_line** mendatory + extra
   * **ft_printf** mendatory
   * **born2beroot** -
